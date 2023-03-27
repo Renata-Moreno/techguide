@@ -1,0 +1,22 @@
+name: Sistemas de Diseño
+logo: 
+short-description:
+key-objectives:
+  - Un sistema de diseño es una colección de componentes reutilizables, guiados por estándares claros, que se pueden ensamblar para crear aplicaciones.
+  - Creación y mantenimiento de bibliotecas que se consumirán y utilizarán como estándar para construir un proyecto.
+aditional-objectives:
+contents:
+  - type: ARTICLE
+    title: "Sistema De Diseño: Platzi"
+    link: https://www.figma.com/community/file/1047878206740321860
+  - type: ARTICLE
+    title: "A comprehensive guide to design systems"
+    link: https://www.invisionapp.com/inside-design/guide-to-design-systems/
+  - type: YOUTUBE
+    title: "Sistemas de Diseño ( Team Library )"
+    link: https://www.youtube.com/watch?v=WS67rHFTVzc&ab_channel=jonmircha
+  - type: YOUTUBE
+    title: "Crear un design System en Figma"
+    link: https://www.youtube.com/watch?v=hrr_-3Y8j7M&ab_channel=CreatividadenBlanco
+  
+alura-contents:
